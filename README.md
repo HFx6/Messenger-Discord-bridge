@@ -1,4 +1,7 @@
 # MessCord
+
+*THIS PROJECTS IS DEFUNCT AND UNSOLVABLE DUE TO API CHANGES IN DISCORD AND FACEBOOK* 
+
 Facebook Messenger on Discord!
 
 ---
